@@ -4,8 +4,6 @@ void add(int a, int b);
 void sub(int a, int b);
 
 int main(){
-	printf("Hello World\n");
-	add(10, 20);
 	sub(30, 20);
 	return 0;
 }
